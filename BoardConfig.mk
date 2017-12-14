@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/xiaomi/tissot
+LOCAL_PATH := device/xiaomi/tissot_sprout
 
 # Architecture
 TARGET_ARCH := arm64

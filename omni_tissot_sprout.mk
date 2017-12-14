@@ -35,8 +35,8 @@ PRODUCT_COPY_FILES += \
     bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := tissot
-PRODUCT_NAME := omni_tissot
+PRODUCT_DEVICE := tissot_sprout
+PRODUCT_NAME := omni_tissot_sprout
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := MI A1
 PRODUCT_MANUFACTURER := Xiaomi
